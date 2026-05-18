@@ -1,8 +1,14 @@
-# healthcare-chatbot
-## Important Note !!
-Please note that the project is no longer maintained. 
-If anyone wants to expand it further, simply clone it to your own local , make changes and push to your own github account. 
+# Carebuddy - healthcare chatbot
+A simple healthcare chatbot built using **Scikit-learn** that predicts possible diseases based on user symptoms.
 
-Thanks all !!! 
+The chatbot interacts with users by asking relevant questions and provides:
+- Disease prediction
+- Basic disease details
+- Precautionary advice
 
-a chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.
+## 🚀 Features
+- Symptom-based disease prediction
+- Interactive Q&A conversation
+- Machine Learning using Scikit-learn
+- Simple and beginner-friendly project
+
